@@ -30,6 +30,6 @@ lab01/
 │   └── analysis.md
 ├── images/
 │   ├── screenshots/
-│   └── architecture.png
+│   └── system_architecture.png
 └── diagrams/
     └── system_architecture.drawio
